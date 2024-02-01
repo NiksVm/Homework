@@ -27,3 +27,7 @@ Linux, macOS
 rm <filename>
 ```
 
+Просмотреть логи
+```sh
+log
+```
